@@ -1,0 +1,6 @@
+name: CustomItems
+version: '${project.version}'
+main: me.humandavey.customitems.CustomItems
+api-version: 1.19
+authors: [ humandavey ]
+description: An awesome custom item framework
